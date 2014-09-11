@@ -1,6 +1,3 @@
-tsv-to-android-trans
-====================
-
 실행파일 만드는 방법
  - Export -> Java -> Runnable jar file
 
